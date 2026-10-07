@@ -1,0 +1,9 @@
+# Preview e artefatos de deploy (inlineados pelo Freebuff)
+preview.html
+preview-hero-b.html
+
+# Saída de deploy (gerado a cada versão)
+_deploy/
+
+# Identificador do projeto Freebuff
+.freebuff/
